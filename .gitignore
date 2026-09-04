@@ -1,0 +1,31 @@
+fairseq
+emg_data
+output_audios
+text_alignments
+torch_models
+code_dict_100
+count_unique_words.py
+deepspeech-0.7.0-models.pbmm
+deepspeech-0.7.0-models.scorer
+get_hubert_labels.py
+hubert_base_ls960.pt
+km_100.bin
+tts_checkpoint_best_100.pt
+waveglow_256channels_new.pt
+__pycache__/
+nature_submission_code.egg-info/
+synthesis.egg-info/
+runs/
+reference_speaker_data/
+incorrect_reference_speaker_recordings/
+reference_speaker_data/
+# 0_and_1_voiced_closed_reference_speaker.zip
+get_words.ipynb
+# non_reference_speaker_closed_vocab.zip
+# silent_closed_reference_speaker_1.zip
+transcripts_reference_speaker.txt
+# non_reference_speaker_closed_voiced.zip
+zipped_data/
+patient_data/
+removed_reference_speaker_data/
+patient_2_data/
